@@ -33,3 +33,8 @@ cluster or Colab via web based terminal/editor/Jupyter sessions. Labs use the
 Keras framework and are automatically assessed using Git to give immediate
 feedback.
 
+## 00 - Introduction
+
+* [pdf slides](/handouts/handout-00-intro.pdf)
+
+
