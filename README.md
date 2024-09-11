@@ -33,6 +33,28 @@ cluster or Colab via web based terminal/editor/Jupyter sessions. Labs use the
 Keras framework and are automatically assessed using Git to give immediate
 feedback.
 
+# Handouts 
+
+Lecture Notes can be found [here](https://frcs.github.io/4C16-LectureNotes).
+
+These notes will be updated during term.
+
+Slides from last year can be found
+[here](https://github.com/frcs/4C16-2223)
+
+## labs
+
+It is recommended to students to refresh their knowledge of Python 3
+prior to starting 4C16. Some useful resources are listed in the document
+below:
+
+* [Python 3 resources ](/handouts/PreparationPython3.pdf)
+
+The lab system handbook and instructions for lab 0 can be found here:
+
+* [Lab system handbook](/handouts/4c16-lab-system-handbook.pdf)
+
+
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
