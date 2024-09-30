@@ -79,3 +79,6 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
 
+## 05 - FeedForward Neural Networks
+
+* [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf)
