@@ -83,6 +83,10 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf)
 
+## 06 - Convolutional Neural Networks
+
+* [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
+
 ## 07 - Advances in Network Architectures and Training
 
 * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
