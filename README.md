@@ -96,4 +96,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 * [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf)
 
 
+## 09 - Generative Models
+
+* [pdf slides](/handouts/handout-09-generative-models.pdf)
 
