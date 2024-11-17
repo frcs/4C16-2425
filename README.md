@@ -100,3 +100,16 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-09-generative-models.pdf)
 
+## 10 - Transformers
+
+* [pdf slides](handouts/handout-10-transformers.pdf)
+
+## 11 - Large Language Models
+
+* [pdf slides](handouts/handout-11-large-language-models.pdf)
+
+
+## Past Exam
+The format of the exam has changed but this past exam could still be useful your preparation.
+* [2017/18 exam](/handouts/exam-2017-18.pdf)
+* [2017/18 exam with solutions](/handouts/exam-2017-18-solutions.pdf)
