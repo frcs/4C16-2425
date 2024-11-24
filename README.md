@@ -104,6 +104,9 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](handouts/handout-10-transformers.pdf)
 
+## 11 - Large Language Models
+
+* [pdf slides](/handouts/handout-11-large-language-models.pdf)
 
 
 
